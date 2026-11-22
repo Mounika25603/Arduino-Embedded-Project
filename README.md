@@ -1,5 +1,5 @@
 # Arduino-Embedded-Project
-Embeddded systems project using arduino and thinkercad
+Embedded systems project using arduino and thinkercad
 1.Automatic street Light system
 Description
 This project automatically switches ON the street light when the surrounding environment becomes dark and switches OFF when sufficient light is available.
